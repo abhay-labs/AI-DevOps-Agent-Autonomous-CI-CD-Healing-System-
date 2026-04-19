@@ -54,8 +54,7 @@ CI CD Tools
 
 # 🚀 Installation and Setup
 
-git clone https://github.com/your-username/ai-devops-agent.git
-cd ai-devops-agent
+git clone https://github.com/abhay-labs/AI-DevOps-Agent-Autonomous-CI-CD-Healing-System-.git
 
 # Backend Setup
 cd backend
