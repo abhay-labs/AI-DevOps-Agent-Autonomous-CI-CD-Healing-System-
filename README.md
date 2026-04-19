@@ -56,12 +56,12 @@ CI CD Tools
 
 git clone https://github.com/abhay-labs/AI-DevOps-Agent-Autonomous-CI-CD-Healing-System-.git
 
-### Backend Setup
+## Backend Setup
 cd backend
 pip install -r requirements.txt
 python main.py
 
-### Frontend Setup
+## Frontend Setup
 cd frontend
 npm install
 npm start
